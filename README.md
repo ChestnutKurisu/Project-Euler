@@ -1,2 +1,1 @@
-# Project-Euler
-ProjectEuler.net/ProjectEuler+ solutions
+**Disclaimer:** this repository outlines solutions and optimizations to a subset of the ProjectEuler problems from [projecteuler.net](projecteuler.net) and the enhanced programming challenges for the first several problems on HackerRank's [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges). The chief objective of the code documented in this repository is to spur an inquiry into alternative solutions to problems; ergo, it is recommended that visitors close this tab and attempt solving the problems first before viewing any solutions to maximize their learning.
